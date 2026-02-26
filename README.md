@@ -34,12 +34,7 @@ Building and maintaining a pipeline that moves data from AWS Aurora (MySQL) to G
 ## 🌟 Featured Project
 
 [**wufeng**](https://github.com/jonathan-long-lin/wufeng)
-A flagship project exploring lineage, data, and heritage through the lens of technology.
-
-Other repositories:
-- [prompt-analyzer](https://github.com/jonathan-long-lin/prompt-analyzer)
-- [toy-agent](https://github.com/jonathan-long-lin/toy-agent)
-- [wufeng-dag-rag](https://github.com/jonathan-long-lin/wufeng-dag-rag)
+I'm a member of the [Wufeng Lin family](https://en.wikipedia.org/wiki/Wufeng_Lin_Family_Mansion_and_Garden), a historic Taiwanese family with deep roots in Wufeng, Taichung. This project is a personal exploration of that lineage and heritage through the lens of data and technology.
 
 ---
 
