@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jonathan Long Lin
 
-**Machine Learning Engineer** (he/him)  
-Making machine learning pipelines with Python
+**Data Engineer** (he/him)  
+Making data pipelines for analytics and AI.
 
 ---
 
