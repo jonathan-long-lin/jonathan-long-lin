@@ -21,7 +21,7 @@ I'm passionate about building robust and scalable machine learning systems. My e
 
 ## 🌟 Featured Project
 
-[**wufeng-lin-family**](https://github.com/jonathan-long-lin/wufeng-lin-family)  
+[**wufeng**](https://github.com/jonathan-long-lin/wufeng)  
 A flagship project exploring lineage, data, and heritage through the lens of technology.
 
 Other repositories:  
